@@ -3,6 +3,11 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState />
+          </value>
+        </entry>
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -14,11 +19,11 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="height" value="90" />
-                            <entry key="outputName" value="ic_add_btn" />
+                            <entry key="height" value="13" />
+                            <entry key="outputName" value="ic_addbooks_icon" />
                             <entry key="overrideSize" value="true" />
-                            <entry key="sourceFile" value="$PROJECT_DIR$/../Blazerbooks/Assets/svgs/add_btn.svg" />
-                            <entry key="width" value="90" />
+                            <entry key="sourceFile" value="$PROJECT_DIR$/../Blazerbooks/Assets/svgs/addbooks_icon.svg" />
+                            <entry key="width" value="10" />
                           </map>
                         </option>
                       </PersistentState>
